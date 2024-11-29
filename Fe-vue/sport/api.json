@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "3356",
+      "name": "PHẠM MINH ĐẠT",
+      "email": "codengay8h@gmail.com",
+      "phone": "09090909",
+      "address": "Thôn Thiện Hòa Thiện Nghiệp Tp. Phan Thiết, Bình Thuận",
+      "password": "123"
+    },
+    {
+      "id": "cfc2",
+      "name": "MINH ĐẠT",
+      "email": "pmdat0808@gmail.com",
+      "phone": "123456789",
+      "address": "Phường 13, Quận Tân Bình",
+      "password": "12345678"
+    }
+  ]
+}
